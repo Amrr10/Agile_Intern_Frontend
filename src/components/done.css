@@ -1,0 +1,36 @@
+body{
+    align-items: center;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    position: static;
+}
+.Done .submit{
+    text-align: center;
+    font: normal normal 600 28px/27px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+.Recieved{
+    height: 400px;
+    width: 1600px;
+    margin-bottom: 20px;
+}
+.Return{
+    width: 330px;
+    height: 55px;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    font-size: 25px;
+    font-weight: medium;
+    letter-spacing: 0px;
+    background: #016c96;
+    cursor: pointer;
+    text-align: center;
+    opacity: 0.8;
+   }
